@@ -1,0 +1,1 @@
+<__main__.RasterDrawing object at 0x7939881887d0>

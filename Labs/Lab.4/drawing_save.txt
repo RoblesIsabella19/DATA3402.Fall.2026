@@ -1,0 +1,1 @@
+RasterDrawing.from_repr(width=30, height=12, shapes = [Circle(radius=3, x = 4, y=4, symbol = 'O')])
